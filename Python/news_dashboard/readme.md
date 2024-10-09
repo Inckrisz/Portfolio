@@ -1,6 +1,6 @@
 # News Dashboard
 
-A web application that visualizes news headlines and provides insights using Django and Streamlit. This project fetches and categorizes news articles using a web scraping approach.
+An easy Django application, that fetches top news from 'https://news.ycombinator.com'
 
 ## Prerequisites
 
