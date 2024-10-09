@@ -20,7 +20,7 @@ cd Portfolio/Python/news_dashboard
    pip install -r requirements.txt
    ```bash
 
-# Django Setup
+# Setup
   ```bash
   python manage.py makemigrations
   python manage.py migrate
