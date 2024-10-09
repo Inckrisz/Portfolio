@@ -1,6 +1,6 @@
 # News Dashboard
 
-An easy Django application, that fetches top news from 'https://news.ycombinator.com'
+An easy Django application, that fetches top news from 'https://news.ycombinator.com' using simple web-scraping with BO4
 
 ## Prerequisites
 
