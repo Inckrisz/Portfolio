@@ -8,9 +8,10 @@ An easy Django application, that fetches top news from 'https://news.ycombinator
 - pip (Python package installer)
 
 ## Setting Up the Environment
-
-git clone https://github.com/Inckrisz/Portfolio.git
-cd Portfolio/Python/news_dashboard
+   ```bash
+   git clone https://github.com/Inckrisz/Portfolio.git
+   cd Portfolio/Python/news_dashboard
+   ```bash
 
 1. **Create a Python virtual environment** using `pyenv`:
    ```bash
